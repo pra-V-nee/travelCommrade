@@ -1,0 +1,8 @@
+// Python Virtual Env
+https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3
+
+// Parent Directory Setup
+https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder
+
+// Flask Sample REST API
+https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
