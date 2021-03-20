@@ -4,7 +4,7 @@ emit==0.4.0
 Flask==1.1.1
 graphql-core==3.0.1
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 -e git+https://github.com/pra-V-nee/travelCommrade.git@64b72938f3f716a3c352159229a82dfc11a7cda5#egg=travelCommrade
 Werkzeug==0.16.0
